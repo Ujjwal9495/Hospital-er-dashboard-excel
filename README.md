@@ -44,7 +44,7 @@ To update the image preview:
 
 ---
 
-Feel free to clone, explore, or extend this dashboard. Contributions and suggestions are welcome!
+Feel free to  explore this dashboard. Contributions and suggestions are welcome!
 ency Room Dashboard** built using **Microsoft Excel 2019**.  
 This project leverages **PivotTables**, **charts**, and **slicers** to visualize patient data, monitor trends, and provide insights into admission status, wait time, satisfaction, gender distribution, and departmental referrals.
 
@@ -81,4 +81,4 @@ This project leverages **PivotTables**, **charts**, and **slicers** to visualize
 B.Tech in Computer Science & Business Systems  
 [GitHub Profile](https://github.com/Ujjwal9495) 
 ---
-](https://github.com/Ujjwal9495/Hospital-er-dashboard-excel/blob/main/Final-Dashboard(Hospital%20Emergency%20Room).png)
+(https://github.com/Ujjwal9495/Hospital-er-dashboard-excel/blob/main/Final-Dashboard(Hospital%20Emergency%20Room).png)
