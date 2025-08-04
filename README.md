@@ -3,8 +3,8 @@
 A dynamic **Monthly Emerg# 🏥 Hospital Emergency Room Dashboard  
 *A dynamic monthly reporting dashboard built in Excel 2019*
 
-![Dashboard Preview](https://github.com/your-username/your-repo-name/blob/main/dashboard.png)  
-<!-- 🔁 Replace the above URL with your actual GitHub image link after uploading -->
+![Dashboard Preview](https://github.com/Ujjwal9495/Hospital-er-dashboard-excel/blob/main/Final-Dashboard(Hospital%20Emergency%20Room).png)  
+
 
 ## 📌 Description
 This project is an interactive **Hospital Emergency Room Dashboard** developed in **Microsoft Excel 2019** using PivotTables, slicers, PivotCharts, and macro-enabled features.
