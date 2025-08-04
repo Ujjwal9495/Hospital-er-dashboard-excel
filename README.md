@@ -79,6 +79,7 @@ This project leverages **PivotTables**, **charts**, and **slicers** to visualize
 
 **Ujjwal Roy**  
 B.Tech in Computer Science & Business Systems  
+---
 [GitHub Profile](https://github.com/Ujjwal9495) 
 ---
-(https://github.com/Ujjwal9495/Hospital-er-dashboard-excel/blob/main/Final-Dashboard(Hospital%20Emergency%20Room).png)
+https://github.com/Ujjwal9495/Hospital-er-dashboard-excel/blob/main/Final-Dashboard(Hospital%20Emergency%20Room).png
